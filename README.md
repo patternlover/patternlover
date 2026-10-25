@@ -4,7 +4,7 @@
 dataLayer.push({
   event: "profile_view",
   role: "digital analyst",
-  level: "junior"
+  level: "junior",
   stack: ["GTM", "GA4", "BigQuery", "DataStudio"],
   harness: "pi + herdr, custom skills",
 });
