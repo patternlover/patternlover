@@ -4,7 +4,8 @@
 dataLayer.push({
   event: "profile_view",
   role: "digital analyst",
-  stack: ["GTM", "GA4", "BigQuery", "Looker Studio"],
+  level: "junior"
+  stack: ["GTM", "GA4", "BigQuery", "DataStudio"],
   fix: "tracking nobody can check",
   now: "datalayer-doctor",
   harness: "pi + herdr, skills, model budgets",
